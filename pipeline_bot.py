@@ -1,1 +1,167 @@
-<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="content-security-policy" content="default-src &#39;none&#39;; script-src &#39;nonce-9hOM2Od5uCcZ07QORNvoJT&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv="refresh" content="360"></head><body><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce="9hOM2Od5uCcZ07QORNvoJT">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'P4E5TVI564NJT5Ttdm8B24DE7g.VG557aIlNrsqTxV4-1795738055-1.2.1.1-APoY9Zs9jtsSWv7YI5mSBQQNmWnrIZervqO5hRCGlQ2f9oNt0PkvrWLEO.0T.7VV',cITimeS: '1795738055',cN: '9hOM2Od5uCcZ07QORNvoJT',cRay: 'a60ce4c18dcb2ebc',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:"/api/files/e316e18a-02bb-4dcc-95ad-8f85e2c43fc1/content?__cf_chl_tk=RuZpfqjxXFVobpJNPKyZpndgxjnZZW9Z3Xgid2xQGPw-1795738055-1.0.1.1-zI06SvdUAk94.OOd432A_Ah.zgUm7Y8NzQfu0_u5ARY",cvId: '3',cZone: 'claude.ai',fa:"/api/files/e316e18a-02bb-4dcc-95ad-8f85e2c43fc1/content?__cf_chl_f_tk=RuZpfqjxXFVobpJNPKyZpndgxjnZZW9Z3Xgid2xQGPw-1795738055-1.0.1.1-zI06SvdUAk94.OOd432A_Ah.zgUm7Y8NzQfu0_u5ARY",md: '1vehVvXRzB26FTLG5CqTqQUMwFZpW6mhwJ9tedkOdFE-1795738055-1.2.1.1-ZO9ZfpCnMUiXhW5QubJ7yR74.PCXV8rnA.uA6ZzTRY83YzZyqLxo_LnR2eD1uiAuJPYpZ76cI8tGaSCqkzGLNBsvvBRnTijkHInX9RdnGiPc3vBH0UnVDmrZ1Drl3qnG__3Pskx0Pq2BOKlJ1HoJ9X1eVZH43O9qVWCBS2o_4EM817OI6cy5ki8Lq1p50750.nFC8ndUIRONnvOUXNo89EEGnqDRE_kvP4oPV6mEka28RJCqpV3xkVc_rnKHPAadYMCTlgKqcRULUXyT8pByXmKR_4SwpL62ls4qRl6gXxkpE_uHg7Xrqd0dRan31TP_nAKYPiQiaPsE8j4WD5ok1ZO2dRP0dOUphTNI3ql3C9bH3avT8R2_kcA12_J3.aS9wGRksKSdTNFBLtDdrYjngHqetsXCDc2ofzJByI4a3txwLM_.MUTlNxEOqrdpfEQG8IVxIji8CtZptbVjRP6hz_cTgM5.5qFT0RAUW.JsZnzwv7zcWybWnhJwDq.lNdSz9KiAwD1U6XXP4iFV5zu9p4Xq1Hym.z5DbOg4QzkdXPT7z3NeAF3EmgrNHdTo8aH71dOpMkuO58Xv7UX0ElaHgu3wiG0q_CmVxKp5B.CNA2q08sGPvwiT8wq8Knv198OmxzDPsjb3slIlCZoPfrOFcpqUH7B9yOIv_tT413qcTW3kgtZ.CM_f9kZIcj8hoTDdZC4URweYdsk3ctXos7RU4hODw8UCLobLosaD2K5sTl7gx_ViEgsEv9nhMj3gdzWGTRi6FvAoU4JzYwuxT5BAIQkRF0yrs2j5FLQ845_usQTKS1JcStxalkVk0BX78EaDHck6rYjjAclSSeu_BkNhoeKnX7LcFQDLv7u8XEzqZNfrt4BthJAsWq2o5sljvlmw4g8UwEja3guHabTncZiPJWDyj220dR6h0b1AaOPSj.ISkiDkBu3c.pgks4zkyDHev4sEWuU8lVwhVxig...mscmbPiBF76BwLsk3aS4mpKjVwVxzqZee4h7iP6eophlQ26SYlZDqTUM6w2oUOc0DRngrEoWjdtXBsTTHEej_T.w.dREIqpIU0I4.ASxeies12FLYo4WbXDY6.x_ZVviePIHXTdYMqdoaqgXqPJ2nfVIZOOzQKY5HfufDG9kSJkN_TJpZvJAjpkw4t9R64js27g',mdrd: 'ucQJqJukVcQMsFVn.WGDMckW34KtAcRHZp5JYqHBGEw-1795738055-1.2.1.1-xRvVcpy6.H1EphK2upZ5kdmV1TCznkPyQy6d2.7IA99MTop70ljPKZ6FSbCKZthan3IaR8BHFBfRLpOcHoKeVoyyv2IfHu9z4j1WTzd9Tqu4.fl9l2teeQX6Sly2I1iFAsCFCwhiyDYULWqhFHGRpsVN7gOxN9s9TnuSvjxuydpnBl4rmJ5i3U5eVdPI0wYuPzyX4UW4pszhuzheh6qdFA',};var a = document.createElement('script');a.nonce = '9hOM2Od5uCcZ07QORNvoJT';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a60ce4c18dcb2ebc';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"/api/files/e316e18a-02bb-4dcc-95ad-8f85e2c43fc1/content?__cf_chl_rt_tk=RuZpfqjxXFVobpJNPKyZpndgxjnZZW9Z3Xgid2xQGPw-1795738055-1.0.1.1-zI06SvdUAk94.OOd432A_Ah.zgUm7Y8NzQfu0_u5ARY"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>
+#!/usr/bin/env python3
+"""
+Ecom Office Pipeline Bot v2 (Cloud Version)
+Runs on Railway.app 24/7. Inline approve/deny buttons.
+"""
+import json, os, re, sys, time, signal, urllib.request, urllib.parse
+from datetime import datetime
+
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "9079897779:AAGwvpoDxi-FMQbNNUh9EpJ_S3b82uMvE0U")
+API_BASE = f"https://api.telegram.org/bot{BOT_TOKEN}"
+pipeline = {"brands": {}, "stats": {"found": 0, "approved": 0, "denied": 0}, "started": None}
+
+def log(msg):
+    print(f"[{datetime.now().strftime('%H:%M:%S')}] {msg}", flush=True)
+
+def api_call(method, params=None):
+    url = f"{API_BASE}/{method}"
+    if params:
+        data = json.dumps(params).encode()
+        req = urllib.request.Request(url, data=data, headers={"Content-Type": "application/json"})
+    else:
+        req = urllib.request.Request(url)
+    try:
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            return json.loads(resp.read())
+    except Exception as e:
+        log(f"API error: {e}")
+        return None
+
+def send_message(chat_id, text, reply_to=None, buttons=None):
+    params = {"chat_id": chat_id, "text": text, "parse_mode": "HTML"}
+    if reply_to:
+        params["reply_to_message_id"] = reply_to
+    if buttons:
+        params["reply_markup"] = {"inline_keyboard": buttons}
+    return api_call("sendMessage", params)
+
+def edit_message(chat_id, message_id, text, buttons=None):
+    params = {"chat_id": chat_id, "message_id": message_id, "text": text, "parse_mode": "HTML"}
+    if buttons:
+        params["reply_markup"] = {"inline_keyboard": buttons}
+    else:
+        params["reply_markup"] = {"inline_keyboard": []}
+    return api_call("editMessageText", params)
+
+def answer_callback(callback_id, text=""):
+    return api_call("answerCallbackQuery", {"callback_query_id": callback_id, "text": text})
+
+def parse_hermes_brands(text):
+    brands = []
+    pattern = r'(\d+)\.\s*(\S+)\s*\n\s*[^\n]*Ad Library ID:\s*(\S+)\s*\n\s*[^\n]*Total Ads:\s*(\d+)\s*\n\s*[^\n]*First Ad Date:\s*(.+?)(?=\n\n|\n\d+\.|\nSkipped|$)'
+    for m in re.finditer(pattern, text, re.MULTILINE | re.DOTALL):
+        brands.append({"name": m.group(2).strip(), "ad_library_id": m.group(3).strip(), "total_ads": int(m.group(4)), "first_ad_date": m.group(5).strip()})
+    if not brands:
+        for line in text.split('\n'):
+            dm = re.search(r'([a-zA-Z0-9][-a-zA-Z0-9]*\.[a-zA-Z]{2,}(?:\.[a-zA-Z]{2,})?)', line)
+            if dm and 'qualified' in text.lower():
+                d = dm.group(1)
+                if not any(s in d.lower() for s in ['facebook.com','meta.com','telegram.org']):
+                    brands.append({"name": d, "total_ads": "?", "ad_library_id": "?", "first_ad_date": "?"})
+    return brands
+
+def is_qualified_message(text):
+    t = text.lower()
+    return "qualified brands" in t or ("qualified" in t and "ad library id" in t) or ("qualified" in t and "total ads" in t)
+
+def make_brand_card(brand, brand_id, status="pending"):
+    name = brand["name"]
+    ads = brand.get("total_ads", "?")
+    ad_id = brand.get("ad_library_id", "?")
+    first_date = brand.get("first_ad_date", "?")
+    if status == "pending": status_line = "\u23f3 <b>PENDING YOUR DECISION</b>"
+    elif status == "approved": status_line = "\u2705 <b>APPROVED</b>"
+    else: status_line = "\u274c <b>DENIED</b>"
+    return (f"\U0001f50d <b>{name}</b>\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n"
+            f"\U0001f4ca Ads Running: <b>{ads}</b>\n\U0001f194 Library ID: <code>{ad_id}</code>\n"
+            f"\U0001f4c5 First Ad: <b>{first_date}</b>\n\U0001f517 Store: {name}\n"
+            f"\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n{status_line}")
+
+def make_buttons(brand_id):
+    return [[{"text": "\u2705 Approve", "callback_data": f"approve:{brand_id}"}, {"text": "\u274c Deny", "callback_data": f"deny:{brand_id}"}],
+            [{"text": "\U0001f517 View on Meta Ad Library", "callback_data": f"view:{brand_id}"}]]
+
+def main():
+    log("ECOM OFFICE PIPELINE BOT v2 — ONLINE")
+    me = api_call("getMe")
+    if not me or not me.get("ok"):
+        log("ERROR: Invalid bot token!"); sys.exit(1)
+    log(f"Bot: @{me['result']['username']}")
+    offset = 0; my_id = me["result"]["id"]
+    def handle_shutdown(sig, frame):
+        log(f"Shutting down... {pipeline['stats']}"); sys.exit(0)
+    signal.signal(signal.SIGINT, handle_shutdown); signal.signal(signal.SIGTERM, handle_shutdown)
+    while True:
+        try:
+            result = api_call("getUpdates", {"offset": offset, "timeout": 20, "allowed_updates": ["message", "callback_query"]})
+            if not result or not result.get("ok"): time.sleep(2); continue
+            for update in result["result"]:
+                offset = update["update_id"] + 1
+                callback = update.get("callback_query")
+                if callback:
+                    cb_id = callback["id"]; cb_data = callback.get("data", ""); cb_msg = callback.get("message", {})
+                    chat_id = cb_msg.get("chat", {}).get("id"); message_id = cb_msg.get("message_id")
+                    user_name = callback.get("from", {}).get("first_name", "Unknown")
+                    parts = cb_data.split(":")
+                    if len(parts) == 2:
+                        action, brand_id = parts
+                        if brand_id in pipeline["brands"]:
+                            brand = pipeline["brands"][brand_id]
+                            if action == "approve":
+                                brand["status"] = "approved"; brand["decided_by"] = user_name; brand["decided_at"] = datetime.now().isoformat()
+                                pipeline["stats"]["approved"] += 1
+                                card = make_brand_card(brand, brand_id, "approved") + "\n\n\U0001f680 <b>Pipeline triggered</b>\n1\ufe0f\u20e3 Scrape store copy\n2\ufe0f\u20e3 Write 15 native ads\n3\ufe0f\u20e3 Generate campaign images\n4\ufe0f\u20e3 Package in Google Drive"
+                                edit_message(chat_id, message_id, card); answer_callback(cb_id, f"\u2705 {brand['name']} approved!")
+                                log(f"APPROVED: {brand['name']} by {user_name}")
+                            elif action == "deny":
+                                brand["status"] = "denied"; brand["decided_by"] = user_name; brand["decided_at"] = datetime.now().isoformat()
+                                pipeline["stats"]["denied"] += 1
+                                edit_message(chat_id, message_id, make_brand_card(brand, brand_id, "denied")); answer_callback(cb_id, f"\u274c {brand['name']} denied")
+                                log(f"DENIED: {brand['name']} by {user_name}")
+                            elif action == "view":
+                                url = f"https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q={urllib.parse.quote(brand['name'])}"
+                                answer_callback(cb_id); send_message(chat_id, f'\U0001f517 <a href="{url}">View {brand["name"]} on Meta Ad Library</a>', reply_to=message_id)
+                        else: answer_callback(cb_id, "\u26a0\ufe0f Brand expired (bot restarted)")
+                    continue
+                msg = update.get("message")
+                if not msg or not msg.get("text"): continue
+                text = msg["text"]; chat_id = msg["chat"]["id"]; msg_id = msg["message_id"]
+                sender = msg.get("from", {}).get("first_name", "Unknown"); is_bot = msg.get("from", {}).get("is_bot", False)
+                sender_id = msg.get("from", {}).get("id", 0)
+                if sender_id == my_id: continue
+                if is_bot and is_qualified_message(text):
+                    brands = parse_hermes_brands(text)
+                    if brands:
+                        for brand in brands:
+                            bid = f"b{int(time.time()*1000)}{pipeline['stats']['found']}"
+                            brand["status"] = "pending"; brand["found_at"] = datetime.now().isoformat()
+                            pipeline["brands"][bid] = brand; pipeline["stats"]["found"] += 1
+                            send_message(chat_id, make_brand_card(brand, bid, "pending"), reply_to=msg_id, buttons=make_buttons(bid))
+                            log(f"FOUND: {brand['name']} \u2014 {brand.get('total_ads','?')} ads \u2014 buttons sent"); time.sleep(0.5)
+                elif not is_bot:
+                    tl = text.strip().lower()
+                    if tl in ["/status", "status"]:
+                        p = {k:v for k,v in pipeline["brands"].items() if v["status"]=="pending"}; s = pipeline["stats"]
+                        st = f"\U0001f4ca <b>PIPELINE STATUS</b>\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\U0001f50d Found: {s['found']}\n\u2705 Approved: {s['approved']}\n\u274c Denied: {s['denied']}\n\u23f3 Pending: {len(p)}\n\U0001f916 Online since: {pipeline['started']}"
+                        if p: st += "\n\n<b>Waiting:</b>\n" + "".join(f"  \u2022 {b['name']} \u2014 {b.get('total_ads','?')} ads\n" for b in list(p.values())[-5:])
+                        send_message(chat_id, st, reply_to=msg_id)
+                    elif tl in ["/help", "help"]:
+                        send_message(chat_id, "\U0001f3e2 <b>ECOM OFFICE BOT v2</b>\n\nTap \u2705 Approve or \u274c Deny on any brand card.\n\nCommands: status, help", reply_to=msg_id)
+                    elif tl in ["approved","approve","yes","go","ship it"]:
+                        pend = [(k,v) for k,v in pipeline["brands"].items() if v["status"]=="pending"]
+                        if pend:
+                            bid, brand = pend[-1]; brand["status"]="approved"; brand["decided_by"]=sender; brand["decided_at"]=datetime.now().isoformat(); pipeline["stats"]["approved"]+=1
+                            send_message(chat_id, f"\u2705 <b>{brand['name']} APPROVED</b>", reply_to=msg_id); log(f"APPROVED (text): {brand['name']}")
+                        else: send_message(chat_id, "No pending brands.", reply_to=msg_id)
+                    elif tl in ["denied","deny","no","pass","skip","next"]:
+                        pend = [(k,v) for k,v in pipeline["brands"].items() if v["status"]=="pending"]
+                        if pend:
+                            bid, brand = pend[-1]; brand["status"]="denied"; brand["decided_by"]=sender; brand["decided_at"]=datetime.now().isoformat(); pipeline["stats"]["denied"]+=1
+                            send_message(chat_id, f"\u274c <b>{brand['name']} DENIED</b>", reply_to=msg_id); log(f"DENIED (text): {brand['name']}")
+                        else: send_message(chat_id, "No pending brands.", reply_to=msg_id)
+            time.sleep(1)
+        except KeyboardInterrupt: handle_shutdown(None, None)
+        except Exception as e: log(f"Error: {e}"); time.sleep(5)
+
+if __name__ == "__main__":
+    pipeline["started"] = datetime.now().strftime("%Y-%m-%d %H:%M CST"); main()
